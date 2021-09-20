@@ -25,3 +25,5 @@ All features & functions :
 -Advanced file information (Get deep information of .exe or .sys file)
 -HMAC (SHA1>SHA512 & MD5 & RIPMED160)
 -Add to windows context menu (right click on a file or a folder to hash)
+
+![acu](https://user-images.githubusercontent.com/84276282/134088876-f1fed213-bbc7-423b-8374-7110a257eb52.PNG)
