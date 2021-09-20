@@ -5,25 +5,45 @@ Advanced checksum utility 3.0 is a fast and easy to use file hashing application
 All features & functions : 
 
 -Supports file & string hashing 
+
 -Drag and drop support (drag an file or Folder into Advanced checksum utility 3.0 and it will automatically add it)
+
 -Support multiple hashing algorithms (MD5,SHA1>SHA512,CRC32,RIPMED-160)
+
 -Hash verifiying (check the hashes with the corresponding file to ensure the integrity of the File is correct)
+
 -Running process hashing (Add running process to get their Hash)
+
 -File information (You can get information about of any file in the list and save it)
+
 -Send a hash to VirusTotal (chek if the given hash is in VirusTotal Database and see if infected)
+
 -Show hashes in Upper or lower case
+
 -Save selected or all added files into a HTML document
+
 -Customizable Tool (You can change View mode or enable or disable Gridlines...)
+
 -Portable Tool (requires no installing)
+
 -32-Bit and 64-Bit support
+
 -Support multiple languages (English & french)
+
 -Generate a checksumfile (Create a checksumfile supported format are *.sfv *.md5 *.sha1  )
+
 -verify checksum from checksumfile (*.sfv*.md5*.sha1 (not stable)
+
 -Wordlist hashing (hashing a wordlist )
+
 -Dark theme 
--save file icon
+
+-Save file icon
+
 -Advanced file information (Get deep information of .exe or .sys file)
+
 -HMAC (SHA1>SHA512 & MD5 & RIPMED160)
+
 -Add to windows context menu (right click on a file or a folder to hash)
 
 ![acu](https://user-images.githubusercontent.com/84276282/134088876-f1fed213-bbc7-423b-8374-7110a257eb52.PNG)
